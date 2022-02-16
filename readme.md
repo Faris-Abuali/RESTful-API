@@ -1,4 +1,4 @@
-# Building a bulletproof REST API with Typescript, Express.js and Sequelize with MySQL |CRUD REST API
+# Building a bulletproof REST API with Typescript, Express.js, Express-validator, and Sequelize with MySQL |CRUD REST API
 ## I have followd the MVC design pattern with a professional folder structure and organization
 ### For requests valiation, I have used the 'express-validator' package (An express.js middleware for validation & sanitizing)
 
