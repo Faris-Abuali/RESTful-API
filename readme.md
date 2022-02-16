@@ -1,10 +1,13 @@
-Build TODO's CRUD rest API with typescript + Express.js + Sequelize + Sqlite3
-[x] set up typscript for dev
-[x] basic express server with typescript
-[x] setup database
-[x] create model
-[x] create todo POST api
-[x] read todo with pagaination 7
-[x] read todo with id
-[x] update todo
-[x] delete todo
+# Building a bulletproof REST API with Typescript, Express.js and Sequelize with MySQL |CRUD REST API
+## I have followd the MVC design pattern with a professional folder structure and organization
+### For requests valiation, I have used the 'express-validator' package (An express.js middleware for validation & sanitizing)
+
+1. set up typscript for development & for production environments
+2. basic express server with typescript
+3. setup database with the help of Sequelize ORM (Sequelize package contains built-in TypeScript declarations)
+4. create model
+5. create todo POST api
+6. read todo with pagaination (Limit & Offset)
+7. read todo by id
+8. update todo by id
+9. delete todo by id
