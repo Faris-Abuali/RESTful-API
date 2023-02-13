@@ -14,4 +14,3 @@
 
 
 ###### I have pushed the (.env) file because it doesn't contain sensitive information.
-#### Faris H. Abuali | 16-Feb-2022
